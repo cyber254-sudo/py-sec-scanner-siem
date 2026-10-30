@@ -1,0 +1,11 @@
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Local runtime logs and test exports
+security_events.log
+security_report.json
+security_report.html
